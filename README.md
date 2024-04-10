@@ -16,7 +16,7 @@ interact with EVM (ethereum virtual machine) compatible chains with ease on php,
 
 ## Requirements
 
-1. PHP 7.4 or higher.
+1. PHP 8 or higher.
 
 ## Installation
 
